@@ -1,0 +1,18 @@
+.osppfw_status_table {
+  width: 65%;
+}
+.osppfw_status_table th {
+  text-align: left;
+}
+.oc_date_format_help {
+  margin-top: 7px;
+}
+.oc_date_format_help .description {
+  display: inline-block;
+  width: 100%;
+  padding: 1px 0;
+}
+.oc_date_format_help .description .ocfmhglgt {
+  background-color: #cccccc;
+  padding: 0px 6px;
+}
